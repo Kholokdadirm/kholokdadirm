@@ -1,0 +1,28 @@
+social-icons {
+    text-align: center;
+    margin-top: 20px;
+}
+  
+.social-icons a {
+    margin: 0 10px;
+    text-decoration: none;
+    color: #fff; /* White color for the icons */
+}
+  
+.facebook {
+    background-color: #3b5998; /* Facebook Blue */
+    padding: 10px 15px;
+    border-radius: 50%;
+}
+  
+.twitter {
+    background-color: #1da1f2; /* Twitter Blue */
+    padding: 10px 15px;
+    border-radius: 50%;
+}
+  
+.instagram {
+    background-color: #e1306c; /* Instagram Pink */
+    padding: 10px 15px;
+    border-radius: 50%;
+}
